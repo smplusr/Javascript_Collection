@@ -21,3 +21,7 @@ Usage:
     The engine's folder could be renamed or located wherever you want.
     
 ----------------------------------------------------------------------------------------------------------------------------------
+
+# game-assets-sample
+
+A sample of game assets used as demo files for the 'enJineS' project. 
